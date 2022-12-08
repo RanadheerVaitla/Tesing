@@ -1,2 +1,2 @@
 # Tesing
-testing repo
+testing repository
